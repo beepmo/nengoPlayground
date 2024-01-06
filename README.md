@@ -1,4 +1,4 @@
-This repo keeps track of my questions, each of which is addressed by a script.
+Every script is addressing a question!
 
 # NEF/
 
